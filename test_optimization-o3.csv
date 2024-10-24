@@ -1,0 +1,11 @@
+Time (%),Cumulative Seconds,Self Seconds,Calls,Self s/call,Total s/call,Function Name
+100,104.40,104.40,1,104.40,104.40,bubbleSort
+66.67,0.04,0.04,300000,0.00,0.00,heapify
+16.67,0.05,0.01,3350039,0.00,0.00,swap
+16.67,0.06,0.01,1,10.00,60.00,heapsort
+0.00,0.06,0.01,3350100,0.00,0.00,swapFloat
+0.00,0.06,0.00,300000,0.00,0.00,heapifyFloat
+0.00,0.06,0.00,1,0.00,0.00,heapSortFloat
+0.01,55.47,0.00,475013,0.00,0.01,createNode
+0.0,55.47,0.00,2,0.0,0.05,createFibonacciHeap
+0.00,55.47,0.00,180000,0.00,0.00,insert
